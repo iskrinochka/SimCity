@@ -29,6 +29,8 @@ Each building is shown with an emoji symbol, and the updated city map is printed
 - `pl` - Power line
 - `q` - Quit the game
 
+![SimCity commands](assets/commands.png)
+
 ## How to Run
 
 Use Gradle to start the application:
